@@ -25,5 +25,6 @@ While I personally am not a plant or animal care taker, I have had my share of r
 
 Thank you for taking the time to look at my project! 
 
+[Plant Pal Presentation.pdf](https://github.com/user-attachments/files/21273571/Plant.Pal.Presentation.pdf)
 
 [Plant Pal Report.pdf](https://github.com/user-attachments/files/21271861/Plant.Pal.Report.pdf)
